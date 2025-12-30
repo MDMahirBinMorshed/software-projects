@@ -1,21 +1,21 @@
-# Data Analysis Projects
+# Software Engineering Projects
 
-This repository will contain data analysis and visualization projects using Python.
+This repository contains small software engineering projects and tools.
 
 ## Focus areas
-- Data cleaning and exploration
-- Statistical insights
-- Time-series and trend analysis
-- Business-focused visualizations
+- Python automation scripts
+- REST APIs (FastAPI)
+- Web scraping
+- Backend fundamentals
 
 ## Planned projects
-- Sales data dashboard
-- COVID-19 data analysis (Bangladesh)
-- Exploratory analysis of public datasets
+- Web scraper (Python)
+- FastAPI mini service
+- File automation tools
 
-Tools:
-- Pandas
-- Matplotlib / Seaborn
-- Jupyter Notebook
+Technologies:
+- Python
+- FastAPI
+- Git
 
-🚧 Projects coming soon.
+🚧 Projects will be added soon.
